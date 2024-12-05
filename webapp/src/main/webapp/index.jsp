@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Flipkart shopping website</title>
+    <title>TRIPPY NATION</title>
     <link rel="stylesheet" href="style.css">
 <style>
 	*{
@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> **** Make sure everyone practice CICD Project **** </h1>   
+         <h1> **** BE IN VIBE **** </h1>   
 	 
 
     </section>    
